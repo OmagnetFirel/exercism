@@ -1,16 +1,18 @@
+import RemoteControlCompetition.RemoteControlCar;
+
 public class Main {
     public static void main(String[] args) {
-//        MicroBlog microBlog = new MicroBlog();
+//        main.MicroBlog microBlog = new main.MicroBlog();
 //        System.out.print(microBlog.truncate("olaVictor"));
 
-//        SqueakyClean clean = new SqueakyClean();
+//        main.SqueakyClean clean = new main.SqueakyClean();
 //        System.out.println(clean.Clean("à-ḃç"));
-//        CarAssemble carAssemble = new  CarAssemble();
+//        main.CarAssemble carAssemble = new  main.CarAssemble();
 //        System.out.println(carAssemble.workingItemsPerMinute(8));
-            NeedForSpeed nfs = new NeedForSpeed(3, 20);
-            RaceTrack rt = new RaceTrack(16);
-
-            System.out.println(rt.tryFinishTrack(nfs));
+//            main.NeedForSpeed nfs = new main.NeedForSpeed(3, 20);
+//            main.RaceTrack rt = new main.RaceTrack(16);
+//            main.SalaryCalculator sc = new main.SalaryCalculator();
+//            System.out.println(sc.multiplierPerDaysSkipped(7));
 
     }
 }

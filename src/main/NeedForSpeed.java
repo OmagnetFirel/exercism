@@ -1,3 +1,5 @@
+package main;
+
 class NeedForSpeed {
     private int battery = 100;
     private int speed, batteryDrain, distance;

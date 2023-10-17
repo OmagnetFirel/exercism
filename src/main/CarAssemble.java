@@ -1,3 +1,5 @@
+package main;
+
 public class CarAssemble {
     double oneHourProductionRate = 221;
     public double productionRatePerHour(int speed) {

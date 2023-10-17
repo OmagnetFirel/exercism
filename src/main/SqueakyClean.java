@@ -1,4 +1,4 @@
-
+package main;
 
 public class SqueakyClean {
     public String Clean(String identifier){
@@ -40,6 +40,7 @@ public class SqueakyClean {
                 sb.append(c);
             }
         }
+
 
         return sb.toString();
     }
